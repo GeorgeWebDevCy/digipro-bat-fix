@@ -23,9 +23,13 @@ function acf_is_heading_line($line) {
     if (preg_match('/^<(?:a|h[1-6])[^>]*>.*<\/(?:a|h[1-6])>$/i', $trimmed)) {
         return true;
     }
-    // plain text with no tags
+    // plain text with no tags - assume headings are fairly short
     if (!preg_match('/^<.*>$/', $trimmed)) {
-        return true;
+        // treat short lines as headings, longer ones as regular content
+        if (str_word_count($plain) <= 7 && strlen($plain) <= 70) {
+            return true;
+        }
+        return false;
     }
     return false;
 }
