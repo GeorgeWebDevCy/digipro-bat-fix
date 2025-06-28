@@ -11,26 +11,20 @@ function acf_is_heading_line($line) {
     if ($trimmed === '') {
         return false;
     }
-    $plain = trim(strip_tags($trimmed));
-    if ($plain === '') {
-        return false;
-    }
+
     // ignore typical content elements like paragraphs or lists
     if (preg_match('/^<(?:p|div|span|ul|ol|li|table|tbody|tr|td|img|blockquote|section|article|figure|br)/i', $trimmed)) {
         return false;
     }
-    // <a> or <h1>-<h6> tags count as headings
-    if (preg_match('/^<(?:a|h[1-6])[^>]*>.*<\/(?:a|h[1-6])>$/i', $trimmed)) {
+
+    // <a> tags or <h1>-<h6> tags count as headings
+    if (preg_match('/^<a\b[^>]*>.*<\/a>\s*$/i', $trimmed)) {
         return true;
     }
-    // plain text with no tags - assume headings are fairly short
-    if (!preg_match('/^<.*>$/', $trimmed)) {
-        // treat short lines as headings, longer ones as regular content
-        if (str_word_count($plain) <= 7 && strlen($plain) <= 70) {
-            return true;
-        }
-        return false;
+    if (preg_match('/^<h[1-6][^>]*>.*<\/h[1-6]>\s*$/i', $trimmed)) {
+        return true;
     }
+
     return false;
 }
 
