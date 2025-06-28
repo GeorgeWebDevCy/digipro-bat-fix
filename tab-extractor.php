@@ -6,6 +6,30 @@ Version: 1.5
 Author: Your Name
 */
 
+function acf_is_heading_line($line) {
+    $trimmed = trim($line);
+    if ($trimmed === '') {
+        return false;
+    }
+    $plain = trim(strip_tags($trimmed));
+    if ($plain === '') {
+        return false;
+    }
+    // ignore typical content elements like paragraphs or lists
+    if (preg_match('/^<(?:p|div|span|ul|ol|li|table|tbody|tr|td|img|blockquote|section|article|figure|br)/i', $trimmed)) {
+        return false;
+    }
+    // <a> or <h1>-<h6> tags count as headings
+    if (preg_match('/^<(?:a|h[1-6])[^>]*>.*<\/(?:a|h[1-6])>$/i', $trimmed)) {
+        return true;
+    }
+    // plain text with no tags
+    if (!preg_match('/^<.*>$/', $trimmed)) {
+        return true;
+    }
+    return false;
+}
+
 add_action('admin_menu', function () {
     add_management_page(
         'ACF Tab Extractor',
@@ -55,7 +79,8 @@ function acf_tab_extractor_page() {
                 for ($i = 0; $i < count($lines); $i++) {
                     $line = $lines[$i];
                     $trimmed = trim($line);
-                    $is_heading = ($trimmed !== '' && !preg_match('/^<.*>$/', $trimmed));
+                    $is_heading = acf_is_heading_line($line);
+                    $plain = trim(strip_tags($trimmed));
                     if ($trimmed === '') continue;
 
                     if ($tab_list_start === -1 && $is_heading) {
@@ -67,13 +92,13 @@ function acf_tab_extractor_page() {
                         // Look ahead to next non-empty line
                         $j = $i + 1;
                         while ($j < count($lines) && trim($lines[$j]) === '') $j++;
-                        $next_trim = ($j < count($lines)) ? trim($lines[$j]) : '';
-                        $next_is_heading = ($next_trim !== '' && !preg_match('/^<.*>$/', $next_trim));
+                        $next_trim = ($j < count($lines)) ? $lines[$j] : '';
+                        $next_is_heading = acf_is_heading_line($next_trim);
                         if ($j < count($lines) && !$next_is_heading) {
                             // Found the start of real tabs!
                             $started = true;
                             $tab_start_line = $i;
-                            $current_heading = $trimmed;
+                            $current_heading = $plain;
                             $i = $j - 1; // Start from next line
                             continue;
                         }
@@ -86,7 +111,8 @@ function acf_tab_extractor_page() {
                     for ($i = $tab_start_line; $i < count($lines); $i++) {
                         $line = $lines[$i];
                         $trimmed = trim($line);
-                        $is_heading = ($trimmed !== '' && !preg_match('/^<.*>$/', $trimmed));
+                        $is_heading = acf_is_heading_line($line);
+                        $plain = trim(strip_tags($trimmed));
                         if ($trimmed === '') continue;
                         if ($is_heading) {
                             if ($current_heading && trim(strip_tags($current_content))) {
@@ -96,7 +122,7 @@ function acf_tab_extractor_page() {
                                 ];
                                 $current_content = '';
                             }
-                            $current_heading = $trimmed;
+                            $current_heading = $plain;
                         } else {
                             $current_content .= $line . "\n";
                         }
