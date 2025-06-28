@@ -1,0 +1,426 @@
+We have ACF fields with a repeater defined in acf-export-2025-06-28.json
+
+We have the html below in our example but this may vary
+
+<strong>The programme includes:</strong>
+<ul>
+ 	<li>Two full-days seminar at a luxurious venue.</li>
+ 	<li>Half a day consulting session for each participating company.</li>
+ 	<li>An extensive report for each participating company formulated to their needs. The report will include recommendations and suggestions for further consideration by the management.</li>
+ 	<li>Full access to a seminar blog containing all presentations and further additional support materials and resources for each seminar participant.</li>
+ 	<li>Full lunch and three coffee breaks for the two-days seminar for each seminar participant.</li>
+ 	<li>No VAT is imposed to Digipro Executive Management Seminars. Please contact us for clarifications.</li>
+</ul>
+<a>Program</a>
+<a>Audinece</a>
+<a>Objectives</a>
+<a>Hourly Schedule</a>
+<a>Methodology</a>
+<a>Activities</a>
+Program
+
+Given the contribution of tourism to Cyprus’s economy, the hospitality industry assumes a significant role as an enabler of socio-economic growth by generating tourism Euros and employment opportunites.  Developing and operating hotel assets is capital intensive and hence it is imperative that the returns on investment are credible enough to ensure long-term viability, particularly when faced with growing competition from sharing economy platforms like Airbnb and Homeaway.  In addition to hotel rooms, a hitherto untapped opportunity exists in the food and beverage (F&amp;B) operations to drive up profitability, particularly for independent small scale hotel developers and operators.  Data compiled by <a href="http://ec.europa.eu/eurostat/statistics-explained/index.php/File:Number_of_persons_employed,_by_economic_activity,_2013.png">EUROSTAT</a> suggests over 20% of the workforce in Cyprus’s service sector works in the F&amp;B industry.
+
+The growth drivers of the service sector of an economy are increasingly beholden to data-driven decision making, the convergence of which forms the basis of business intelligence (BI).  While other verticals of the service sector are increasingly adopting a data-driven approach to decision making, the F&amp;B industry is yet to leverage the potential of business intelligence.  To fully realize the economic and socio-cultural benefits, it is contingent upon the F&amp;B industry to complement the art of gastronomy with a scientific approach to decision making by leveraging the convergence space of digital platforms and data analytics. Given its fragmented nature and scale of operations, capacity building using training and exposure to best practises attains particular significance in order to sustain growth in revenue and cost optimization through customer acquisition, retention and satisfaction. In practical terms, this need translates into enabling the restaurateurs, café owners, outlet managers and employees to use cost-effective digital platforms and tools for data analysis in making informed decisions in finance and operations (e.g. menu engineering, staffing) and  marketing (e.g. social media engagement, customer satisfaction and retention).
+
+In addition to F&amp;B outlets embedded within hotels, this vertical also includes stand-alone, independent cafes, restaurants which together make a significant contribution to  Cyprus’s service-driven economy by providing substantial entrepreneurial as well as employment opportunities.
+
+Audinece
+
+This seminar targets the management team of F&amp;B of hotel outlets, restaurants, and cafes as well as the private sector owners/F&amp;B managers of small and micro-enterprises in the hospitality food and beverage industry. Furthermore, this expert seminar will offer valuable insight to the hospitality industry stakeholders who deal with revenue and marketing operations.
+
+Participants will benefit from the seminar as they will understand how to effectively scope, source and analyze data for achieving competitive advantage, profitability and sustainability.
+
+Objectives
+
+This expert seminar will enable participants to collate, organise and analyse data (proprietary and external/third party) leading to informed decision-making under conditions of business risk and uncertainty for enhanced competitiveness and profitability. Ability to handle data visualisation and modelling using user-friendly, cost-effective digital computing tools will result in innovative strategies and optimised restaurant or outlet operations.
+
+The seminar content is informed by current trends and research in data analytics and its applications in the F&amp;B industry.  The key themes include, though are not restricted to defining and computing industry-specific metrics and KPIs with a focus on menu engineering techniques for driving cost and revenue optimisation, guest satisfaction, engagement and loyalty using digital platforms including social media channels and demand estimates.
+
+Product and service differentiation will be contingent on the ability to analyse and overlay micro-level proprietary data such as customer profile and satisfaction, costs and revenue with macro-level data available on the Internet which include reliable third-party sources (e.g. Google Trends, Insights, Eurostat), social media reviews and other user-generated content. Thus, the key takeaways of the seminar can be summarized into the following objectives:
+<ul>
+ 	<li>Familiarize with overall data-driven business intelligence landscape in the F&amp;B sector</li>
+ 	<li>Develop analytical skill sets using legacy and open source cloud-based platforms for actionable insights on costs, revenue, and customer satisfaction</li>
+ 	<li>Define KPIs and metrics for menu engineering</li>
+ 	<li>Design monitoring mechanisms using quality control charts for gauging impact of menu engineering</li>
+</ul>
+During the seminar, there will be demonstrations on how to use data visualisation and predictive analytics using micro and macro level data.  Case studies and industry best practices will be discussed to demonstrate the power of data science. These will include themes related to:
+
+REVENUE MANAGEMENT
+
+CUSTOMER ACQUISTION AND ENGAGEMENT
+
+QUALITY ASSURANCE
+
+Conclusively, this authoritative and comprehensive seminar delivers tools and skill sets that enable participants to appreciate the emerging trends in F&amp;B analytics towards optimising revenue, guest satisfaction, and loyalty, thereby adding value to the destination’s economic and socio-cultural landscape.
+
+Hourly Schedule
+<b>DAY One</b>
+
+<b>7:15 − 7:45  /  Arrival and registration</b>
+
+<b>7:45 − 8:15  /  Seminar overview and introduction</b>
+
+<b>8:15 − 10:15  /  Service quality framework and metrics</b>
+<ul>
+ 	<li>Characteristics of Service</li>
+ 	<li>Moments of truth</li>
+ 	<li>SERQUAL: A conceptual framework</li>
+ 	<li>Metrics in F&amp;B</li>
+</ul>
+Activity 1: (a) Identify the moments of truth (MoT) for your outlet (b) Develop key performance indicators (KPIs) and success metrics (c) Map MoT with KPI.
+
+<b>10:15 − 10:30  /  </b><b>Coffee break with biscuits and snacks</b>
+
+<b>10:30 − 12:30  /  Digital and cloud computing tools for F&amp;B operations</b>
+<ul>
+ 	<li>The Google ecosystem (Analytics, Forms, G+, Insights, Sheets, Webmaster tools)</li>
+ 	<li>Microsoft Excel environment</li>
+ 	<li>Tableau environment</li>
+</ul>
+Activity 2: Using the Analytics demo account data sets, explore behavior, acquisition and conversion analytics and perform cohort analysis.
+
+<strong>Case Study 1 Co-Evolution of IT &amp; Processes: The Differentiator in Services</strong>
+Abstract: There is a need for processes and Information Technology to co-evolve. Earlier, there used to be heavy application of IT in manufacturing and other enterprise functions, a spurt in the form of Enterprise Resource Planning (ERP), Software Configuration Management (SCM), etc. In the current economic development, phase services sector is leading the way for economies to grow. Services are altogether a different landscape and there is a need for IT and services to co-evolve. This will lead to a more efficient and productive system, which would be analytic, intelligent and have the capability to formulate new service processes if the need arises. This is also going to be the new frontier that will act as a differentiator in the service industry landscape.
+Source: Saraswat, A. (2009). Co-Evolution of IT and Processes: The Differentiator in Services. ICFAI Journal of Services Marketing, 7(1).
+
+<b>12:30 − 13:45  /  </b><b> </b><b>Lunch break at Hotel’s Restaurant</b>
+
+<b>13:45 − 15:15  /  Customer satisfaction measurement in the digital age</b>
+<ul>
+ 	<li>In-house survey design best practices</li>
+ 	<li>Backend tools for administering surveys (Google Forms)</li>
+ 	<li>Frontend (customer facing) tools for data capture (Tablets)</li>
+ 	<li>Facial sentiment recognition in real time (proof of concept)</li>
+</ul>
+Activity 3: Participants will design a proto-survey specific to their business and upload to Google Forms in a ‘live test’ environment. Real time analytics will be monitored on the backend dashboard.
+
+<strong>Case Study 2 Customer Satisfaction in the restaurant industry: An examination of the transaction-specific model</strong>
+Abstract: Abstract Purpose – To determine the factors that explain customer satisfaction in the full service restaurant industry. Design/methodology/approach – Secondary research and qualitative interviews were used to build the model of customer satisfaction. A structured questionnaire was employed to gather data and test the model. Sampling involved a random selection of addresses from the telephone book and was supplemented by respondents selected on the basis of judgment sampling. Factor analysis and multiple regression were used to test the model. Findings – The regression model suggested that customer satisfaction was influenced most by responsiveness of the frontline employees, followed by price and food quality (in that order). Physical design and appearance of the restaurant did not have a significant effect. Research limitations/implications – To explain customer satisfaction better, it may be important to look at additional factors or seek better measures of the constructs. For example, the measures of food quality may not have captured the complexity and variety of this construct. It may also be important to address the issue of why customers visit restaurants. Instead of the meal, business transactions or enjoying the cherished company of others may be more important. Under the circumstances, customer satisfaction factors may be different. The results are also not generalizable as the sampled area may have different requirements from restaurants. Practical implications – Full service restaurants should focus on three elements – service quality (responsiveness), price, and food quality (reliability) – if customer satisfaction is to be treated as a strategic variable.
+Source: Saad Andaleeb, S., &amp; Conway, C. (2006). Customer satisfaction in the restaurant industry: an examination of the transaction-specific model. Journal of services marketing, 20(1), 3-11.
+
+<b>15:15 − 15:30  /   </b><b>Coffee break with biscuits and snacks</b>
+
+<b>15:30 − 16:30  /  Social Media analytics</b>
+<ul>
+ 	<li>Social media landscape in the F&amp;B industry</li>
+ 	<li>Sentiment analyses and text analytics</li>
+ 	<li>Menu image &amp; prep video analytics</li>
+ 	<li>Benchmarking tools and dashboards (ReviewPro, Hootsuite)</li>
+</ul>
+Activity 4: Using spreadsheet applications and the provided ReviewPro social media sentiment data set, explore whether review sentiments depend on ‘class’ of business.
+
+<strong>Case Study 3 Social Media Use in the Restaurant Industry: A Work in Progress</strong>
+Abstract: Abstract A survey of 166 restaurant managers reveals a mixed picture in their use of social media and its impact on operations. Although many restaurants are using social media, the study found that many restaurateurs lack well-defined social media goals, both in terms of the purpose of the restaurants’ social media activities and the target of their social media messages. Although the restaurant operators in this convenience sample were generally supportive of the use of social media, well over half were not certain that social media met one or more of three specific goals, namely, increasing customer loyalty, bringing in new customers, and boosting revenues. The respondents generally rely more heavily on non-financial metrics than on actual financial numbers to measure the return on their social media investment, due to the large degree of uncertainty surrounding how to measure the financial returns of social media on operations. On balance, independent restaurants made more use of social media than did chains. The study’s findings suggest that restaurateurs should reevaluate their social media approaches to ensure that they are strategically designed and executed.
+
+Source: Needles, A., &amp; Thompson, G. M. (2013). Social media use in the restaurant industry: A work in progress. Cornell Hospitality Report, 13(7), 6-16
+
+<b>DAY Two </b>
+
+<b>7:15 − 7:45  /  Arrival and registration</b>
+
+<b>7:45 − 8:15  /  Recapitulations</b>
+
+<b>8:15 − 10:15  /  Profit optimization computations and tools</b>
+<ul>
+ 	<li>Revenue metrics in F&amp;B (RevPASH)</li>
+ 	<li>Demand estimation models for perishable food items</li>
+ 	<li>Statistical approach for target valuations</li>
+</ul>
+Activity 5: Use a one-tail t-test to ascertain claim of upselling leading to higher RevPASH.
+
+<strong><em>Case Study 4  </em></strong><strong><em>Time-and capacity-based measurement of restaurant revenue</em></strong>
+
+Abstract:  In this article, the authors examine how a common metric of revenue performance—RevPASH, or revenue per available seat-hour—is calculated. In a simple example, a real restaurant, and an extensive simulation study, the authors find inaccuracies in the existing approaches to calculating RevPASH. However, the extent of the inaccuracy is much greater when RevPASH is calculated based on check open times rather than on the time interval from check open to check close. Since accurate RevPASH values are important in guiding managers’ revenue-enhancing decisions, the article’s findings have importance for practice. Furthermore, as RevPASH has been a commonly used metric for academic research, the article’s findings are important for those performing research on restaurant revenue management.
+
+Source:   Thompson, G. M., &amp; Sohn, H. (2009). Time-and capacity-based measurement of restaurant revenue. <em>Cornell Hospitality Quarterly</em>, <em>50</em>(4), 520-539.
+
+<b>10:15 − 10:30  /  </b><b>Coffee break with biscuits and snacks</b>
+
+<b>10:30 − 12:30  /  Menu engineering</b>
+<ul>
+ 	<li>Concept</li>
+ 	<li>Impact on profit</li>
+ 	<li>Process Roadmap</li>
+ 	<li>A/B testing</li>
+</ul>
+Activity 6: Deploy and customize menu engineering spreadsheet factoring seasonality using MS Excel and/or Google Sheets for multiple user accessibilities.
+
+<b>12:30 − 13:30  /  </b><b> </b><b>Lunch break at Hotel’s Restaurant</b>
+
+<b>13:30 − 15:00  / Web analytics and visualization</b>
+<ul>
+ 	<li>Macro trends using Google Trends/Insights</li>
+ 	<li>Applications- preparing marketing calendar</li>
+ 	<li>Channel distribution</li>
+ 	<li>Booking engine data</li>
+ 	<li>Inter-channel lead time mean differences Channel/market-specific campaigns</li>
+ 	<li>Booking engine data</li>
+ 	<li>Inter-channel lead time mean differences</li>
+ 	<li>Channel/market-specific campaigns</li>
+</ul>
+Activity 7: With booking engine data provided in the spreadsheet, compute the lead times based on channels to create a digital marketing campaign calendar.
+
+<b>15:00 − 15:15  /   </b><b>Coffee break with biscuits and snacks</b>
+
+<b>15:15 − 16:15  /  Service and cost control charts</b>
+<ul>
+ 	<li>KPIs in service and costs operations</li>
+ 	<li>Process variations and control charts</li>
+ 	<li>Quality control data visualization and dashboards</li>
+</ul>
+Activity 7: With booking engine data provided in the spreadsheet,  compute the lead times based on channels to create a digital marketing campaign calendar
+
+Activity 8: Using a spreadsheet, participants will develop a template for gauging process variation and maintaining quality control using control charts.
+
+<strong>Case Study 5  Food and Beverage Cost Control Process of Hotel Enterprises</strong>
+Abstract:  Income provided from food and beverage (F&amp;B) sales is an important source of revenue for the hospitality industry. Therefore, hotel enterprises which are one of the most important elements of accommodation industry should perform an F&amp;B cost control in order to minimize costs and increase customer satisfaction. For an effective cost control process; F&amp;B cost control processes and cost control points need to be monitored carefully. The purpose of this study is to investigate F&amp;B cost control processes of hotel enterprises in Orlando, FL and perform an importance-performance analysis for the issues appear to be critical in F&amp;B cost control processes. Regarding the literature review, it is expected that there is a significant difference between the size of the hotels and their F&amp;B cost control processes. To this end, in order to collect data, the research establishes a questionnaire survey to be performed by F&amp;B managers of Orlando hotels to find out the existence of those possible differences. Also, the research investigates the usage rate of Activity-Based Costing (ABC) in hotel enterprises as an overhead allocation method. The research will deploy quantitative data analysis for the evaluation of survey results.
+
+Source:  Cengiz, E., &amp; Cengiz, F. (2015, May). Food and Beverage Cost Control Process of Hotel Enterprises: The Case of Orlando, Florida. 4. In International Interdisciplinary Business-Economics Advancement Conference (pp. 103-114).
+
+Methodology
+
+Strategically the objective of the seminar is to provide actionable insights for data-driven decision-making with analytic tools within the framework of conventions and practices of the F&amp;B industry.  The participants will be guided in a very concise and condensed way, both on the strategic and conceptual elements as well as the practical applications of data analytics. They will gain pertinent knowledge in data scoping, visualization and analysing capabilities and approaches as well as appreciate the role of Big Data in determining strategy.
+
+There will be demonstrations of:
+<ul>
+ 	<li>Methodologies and tools for analytics</li>
+ 	<li>Strategies and actions plans specific to F&amp;B industry</li>
+ 	<li>Exposure to F&amp;B menu engineering framework Pricing strategies and modeling</li>
+</ul>
+In addition, this seminar will be interactive and hands-on in order to explore further potential within the participants’ own context and realities.
+
+<strong>Action learning real-life examples will be used</strong>
+
+A number of action learning examples and case studies will be utilized to demonstrate how F&amp;B businesses leverage data analytics for maximizing their profitability and competitiveness. This seminar is designed for a pragmatic approach.
+
+Activities
+
+Following the workshop, there will be an on-site visit to each of the attending businesses. This amounts to high-level consulting advice that is tailored to the specific needs of the café/outlet/restaurant or allied business verticals and may be discussed in full confidentiality rather than in the open forum of the workshop
+<ul>
+ 	<li>Perform an in-depth analysis of specific issues pertaining to the business</li>
+ 	<li>Audit existing processes in operations and strategy from a revenue standpoint with recommendations for achieving optimization</li>
+ 	<li>Audit existing processes in operations and strategy from a cost standpoint with recommendations for achieving optimization</li>
+ 	<li>Audit digital assets including POS and accounting/bookkeeping software with recommendations for upgrading to innovative cloud-based solutions to enhance productivity and efficiency</li>
+ 	<li>Audit data assets to ascertain quality issues and recommend strategy to capture and store data in an easy to use format</li>
+ 	<li>Recommend a repository of relevant publicly available data sets and cloud-based analytics tools</li>
+ 	<li>Define procedures for mapping in-house proprietary data with public data sets to get a 360 view of the F&amp;B business landscape</li>
+ 	<li>Propound KPIs and metrics for gauging success in business excellence and profitability</li>
+ 	<li>Develop a baseline for analytics procedures and tools in line with the KPIs and metrics</li>
+ 	<li>Prepare a roadmap for leveraging the digital assets for performing analytics procedures  and create business value</li>
+ 	<li>Audit in-house capacity to execute roadmaps and strategies per above points</li>
+ 	<li>Based on in-house capacity audit, recommend on-job training and capacity building mechanisms and platforms to enable managers and their reports to perform relevant and focused business intelligence tasks and analyses</li>
+ 	<li>Suggest customizing and tailoring tools and templates to the specific requirements of the F&amp;B outlet</li>
+ 	<li>Discuss implementation issues focusing on deriving BI value by integrating analytics-based solutions into menu engineering on a proof of concept basis</li>
+</ul>
+The four hours of on-site consulting will be delivered by Dr. Sanjay Nadkarni, who will subsequently write a brief report summarizing the main discussion points and including recommendations and suggestions for further consideration by the management. The recommendations will be in line with the strategy of leveraging cost-effective and user-friendly digital tools and platforms for performing BI analytics with minimal investment in time and resources on part of the F&amp;B outlet owners and employees.
+
+What should happen when the nsippet is run is this 
+
+<strong>The programme includes:</strong>
+<ul>
+ 	<li>Two full-days seminar at a luxurious venue.</li>
+ 	<li>Half a day consulting session for each participating company.</li>
+ 	<li>An extensive report for each participating company formulated to their needs. The report will include recommendations and suggestions for further consideration by the management.</li>
+ 	<li>Full access to a seminar blog containing all presentations and further additional support materials and resources for each seminar participant.</li>
+ 	<li>Full lunch and three coffee breaks for the two-days seminar for each seminar participant.</li>
+ 	<li>No VAT is imposed to Digipro Executive Management Seminars. Please contact us for clarifications.</li>
+</ul>
+remain in the post cobntent
+
+1. we create the tab Program with the content Given the contribution of tourism to Cyprus’s economy, the hospitality industry assumes a significant role as an enabler of socio-economic growth by generating tourism Euros and employment opportunites.  Developing and operating hotel assets is capital intensive and hence it is imperative that the returns on investment are credible enough to ensure long-term viability, particularly when faced with growing competition from sharing economy platforms like Airbnb and Homeaway.  In addition to hotel rooms, a hitherto untapped opportunity exists in the food and beverage (F&amp;B) operations to drive up profitability, particularly for independent small scale hotel developers and operators.  Data compiled by <a href="http://ec.europa.eu/eurostat/statistics-explained/index.php/File:Number_of_persons_employed,_by_economic_activity,_2013.png">EUROSTAT</a> suggests over 20% of the workforce in Cyprus’s service sector works in the F&amp;B industry.
+
+The growth drivers of the service sector of an economy are increasingly beholden to data-driven decision making, the convergence of which forms the basis of business intelligence (BI).  While other verticals of the service sector are increasingly adopting a data-driven approach to decision making, the F&amp;B industry is yet to leverage the potential of business intelligence.  To fully realize the economic and socio-cultural benefits, it is contingent upon the F&amp;B industry to complement the art of gastronomy with a scientific approach to decision making by leveraging the convergence space of digital platforms and data analytics. Given its fragmented nature and scale of operations, capacity building using training and exposure to best practises attains particular significance in order to sustain growth in revenue and cost optimization through customer acquisition, retention and satisfaction. In practical terms, this need translates into enabling the restaurateurs, café owners, outlet managers and employees to use cost-effective digital platforms and tools for data analysis in making informed decisions in finance and operations (e.g. menu engineering, staffing) and  marketing (e.g. social media engagement, customer satisfaction and retention).
+
+In addition to F&amp;B outlets embedded within hotels, this vertical also includes stand-alone, independent cafes, restaurants which together make a significant contribution to  Cyprus’s service-driven economy by providing substantial entrepreneurial as well as employment opportunities.
+
+
+2. We create the tab Audinece with the content This seminar targets the management team of F&amp;B of hotel outlets, restaurants, and cafes as well as the private sector owners/F&amp;B managers of small and micro-enterprises in the hospitality food and beverage industry. Furthermore, this expert seminar will offer valuable insight to the hospitality industry stakeholders who deal with revenue and marketing operations.
+
+Participants will benefit from the seminar as they will understand how to effectively scope, source and analyze data for achieving competitive advantage, profitability and sustainability.
+
+We create the tab Objectives with the content This expert seminar will enable participants to collate, organise and analyse data (proprietary and external/third party) leading to informed decision-making under conditions of business risk and uncertainty for enhanced competitiveness and profitability. Ability to handle data visualisation and modelling using user-friendly, cost-effective digital computing tools will result in innovative strategies and optimised restaurant or outlet operations.
+
+The seminar content is informed by current trends and research in data analytics and its applications in the F&amp;B industry.  The key themes include, though are not restricted to defining and computing industry-specific metrics and KPIs with a focus on menu engineering techniques for driving cost and revenue optimisation, guest satisfaction, engagement and loyalty using digital platforms including social media channels and demand estimates.
+
+Product and service differentiation will be contingent on the ability to analyse and overlay micro-level proprietary data such as customer profile and satisfaction, costs and revenue with macro-level data available on the Internet which include reliable third-party sources (e.g. Google Trends, Insights, Eurostat), social media reviews and other user-generated content. Thus, the key takeaways of the seminar can be summarized into the following objectives:
+<ul>
+ 	<li>Familiarize with overall data-driven business intelligence landscape in the F&amp;B sector</li>
+ 	<li>Develop analytical skill sets using legacy and open source cloud-based platforms for actionable insights on costs, revenue, and customer satisfaction</li>
+ 	<li>Define KPIs and metrics for menu engineering</li>
+ 	<li>Design monitoring mechanisms using quality control charts for gauging impact of menu engineering</li>
+</ul>
+During the seminar, there will be demonstrations on how to use data visualisation and predictive analytics using micro and macro level data.  Case studies and industry best practices will be discussed to demonstrate the power of data science. These will include themes related to:
+
+REVENUE MANAGEMENT
+
+CUSTOMER ACQUISTION AND ENGAGEMENT
+
+QUALITY ASSURANCE
+
+Conclusively, this authoritative and comprehensive seminar delivers tools and skill sets that enable participants to appreciate the emerging trends in F&amp;B analytics towards optimising revenue, guest satisfaction, and loyalty, thereby adding value to the destination’s economic and socio-cultural landscape.
+
+We create the tab Hourly Schedule with the content <b>DAY One</b>
+
+<b>7:15 − 7:45  /  Arrival and registration</b>
+
+<b>7:45 − 8:15  /  Seminar overview and introduction</b>
+
+<b>8:15 − 10:15  /  Service quality framework and metrics</b>
+<ul>
+ 	<li>Characteristics of Service</li>
+ 	<li>Moments of truth</li>
+ 	<li>SERQUAL: A conceptual framework</li>
+ 	<li>Metrics in F&amp;B</li>
+</ul>
+Activity 1: (a) Identify the moments of truth (MoT) for your outlet (b) Develop key performance indicators (KPIs) and success metrics (c) Map MoT with KPI.
+
+<b>10:15 − 10:30  /  </b><b>Coffee break with biscuits and snacks</b>
+
+<b>10:30 − 12:30  /  Digital and cloud computing tools for F&amp;B operations</b>
+<ul>
+ 	<li>The Google ecosystem (Analytics, Forms, G+, Insights, Sheets, Webmaster tools)</li>
+ 	<li>Microsoft Excel environment</li>
+ 	<li>Tableau environment</li>
+</ul>
+Activity 2: Using the Analytics demo account data sets, explore behavior, acquisition and conversion analytics and perform cohort analysis.
+
+<strong>Case Study 1 Co-Evolution of IT &amp; Processes: The Differentiator in Services</strong>
+Abstract: There is a need for processes and Information Technology to co-evolve. Earlier, there used to be heavy application of IT in manufacturing and other enterprise functions, a spurt in the form of Enterprise Resource Planning (ERP), Software Configuration Management (SCM), etc. In the current economic development, phase services sector is leading the way for economies to grow. Services are altogether a different landscape and there is a need for IT and services to co-evolve. This will lead to a more efficient and productive system, which would be analytic, intelligent and have the capability to formulate new service processes if the need arises. This is also going to be the new frontier that will act as a differentiator in the service industry landscape.
+Source: Saraswat, A. (2009). Co-Evolution of IT and Processes: The Differentiator in Services. ICFAI Journal of Services Marketing, 7(1).
+
+<b>12:30 − 13:45  /  </b><b> </b><b>Lunch break at Hotel’s Restaurant</b>
+
+<b>13:45 − 15:15  /  Customer satisfaction measurement in the digital age</b>
+<ul>
+ 	<li>In-house survey design best practices</li>
+ 	<li>Backend tools for administering surveys (Google Forms)</li>
+ 	<li>Frontend (customer facing) tools for data capture (Tablets)</li>
+ 	<li>Facial sentiment recognition in real time (proof of concept)</li>
+</ul>
+Activity 3: Participants will design a proto-survey specific to their business and upload to Google Forms in a ‘live test’ environment. Real time analytics will be monitored on the backend dashboard.
+
+<strong>Case Study 2 Customer Satisfaction in the restaurant industry: An examination of the transaction-specific model</strong>
+Abstract: Abstract Purpose – To determine the factors that explain customer satisfaction in the full service restaurant industry. Design/methodology/approach – Secondary research and qualitative interviews were used to build the model of customer satisfaction. A structured questionnaire was employed to gather data and test the model. Sampling involved a random selection of addresses from the telephone book and was supplemented by respondents selected on the basis of judgment sampling. Factor analysis and multiple regression were used to test the model. Findings – The regression model suggested that customer satisfaction was influenced most by responsiveness of the frontline employees, followed by price and food quality (in that order). Physical design and appearance of the restaurant did not have a significant effect. Research limitations/implications – To explain customer satisfaction better, it may be important to look at additional factors or seek better measures of the constructs. For example, the measures of food quality may not have captured the complexity and variety of this construct. It may also be important to address the issue of why customers visit restaurants. Instead of the meal, business transactions or enjoying the cherished company of others may be more important. Under the circumstances, customer satisfaction factors may be different. The results are also not generalizable as the sampled area may have different requirements from restaurants. Practical implications – Full service restaurants should focus on three elements – service quality (responsiveness), price, and food quality (reliability) – if customer satisfaction is to be treated as a strategic variable.
+Source: Saad Andaleeb, S., &amp; Conway, C. (2006). Customer satisfaction in the restaurant industry: an examination of the transaction-specific model. Journal of services marketing, 20(1), 3-11.
+
+<b>15:15 − 15:30  /   </b><b>Coffee break with biscuits and snacks</b>
+
+<b>15:30 − 16:30  /  Social Media analytics</b>
+<ul>
+ 	<li>Social media landscape in the F&amp;B industry</li>
+ 	<li>Sentiment analyses and text analytics</li>
+ 	<li>Menu image &amp; prep video analytics</li>
+ 	<li>Benchmarking tools and dashboards (ReviewPro, Hootsuite)</li>
+</ul>
+Activity 4: Using spreadsheet applications and the provided ReviewPro social media sentiment data set, explore whether review sentiments depend on ‘class’ of business.
+
+<strong>Case Study 3 Social Media Use in the Restaurant Industry: A Work in Progress</strong>
+Abstract: Abstract A survey of 166 restaurant managers reveals a mixed picture in their use of social media and its impact on operations. Although many restaurants are using social media, the study found that many restaurateurs lack well-defined social media goals, both in terms of the purpose of the restaurants’ social media activities and the target of their social media messages. Although the restaurant operators in this convenience sample were generally supportive of the use of social media, well over half were not certain that social media met one or more of three specific goals, namely, increasing customer loyalty, bringing in new customers, and boosting revenues. The respondents generally rely more heavily on non-financial metrics than on actual financial numbers to measure the return on their social media investment, due to the large degree of uncertainty surrounding how to measure the financial returns of social media on operations. On balance, independent restaurants made more use of social media than did chains. The study’s findings suggest that restaurateurs should reevaluate their social media approaches to ensure that they are strategically designed and executed.
+
+Source: Needles, A., &amp; Thompson, G. M. (2013). Social media use in the restaurant industry: A work in progress. Cornell Hospitality Report, 13(7), 6-16
+
+<b>DAY Two </b>
+
+<b>7:15 − 7:45  /  Arrival and registration</b>
+
+<b>7:45 − 8:15  /  Recapitulations</b>
+
+<b>8:15 − 10:15  /  Profit optimization computations and tools</b>
+<ul>
+ 	<li>Revenue metrics in F&amp;B (RevPASH)</li>
+ 	<li>Demand estimation models for perishable food items</li>
+ 	<li>Statistical approach for target valuations</li>
+</ul>
+Activity 5: Use a one-tail t-test to ascertain claim of upselling leading to higher RevPASH.
+
+<strong><em>Case Study 4  </em></strong><strong><em>Time-and capacity-based measurement of restaurant revenue</em></strong>
+
+Abstract:  In this article, the authors examine how a common metric of revenue performance—RevPASH, or revenue per available seat-hour—is calculated. In a simple example, a real restaurant, and an extensive simulation study, the authors find inaccuracies in the existing approaches to calculating RevPASH. However, the extent of the inaccuracy is much greater when RevPASH is calculated based on check open times rather than on the time interval from check open to check close. Since accurate RevPASH values are important in guiding managers’ revenue-enhancing decisions, the article’s findings have importance for practice. Furthermore, as RevPASH has been a commonly used metric for academic research, the article’s findings are important for those performing research on restaurant revenue management.
+
+Source:   Thompson, G. M., &amp; Sohn, H. (2009). Time-and capacity-based measurement of restaurant revenue. <em>Cornell Hospitality Quarterly</em>, <em>50</em>(4), 520-539.
+
+<b>10:15 − 10:30  /  </b><b>Coffee break with biscuits and snacks</b>
+
+<b>10:30 − 12:30  /  Menu engineering</b>
+<ul>
+ 	<li>Concept</li>
+ 	<li>Impact on profit</li>
+ 	<li>Process Roadmap</li>
+ 	<li>A/B testing</li>
+</ul>
+Activity 6: Deploy and customize menu engineering spreadsheet factoring seasonality using MS Excel and/or Google Sheets for multiple user accessibilities.
+
+<b>12:30 − 13:30  /  </b><b> </b><b>Lunch break at Hotel’s Restaurant</b>
+
+<b>13:30 − 15:00  / Web analytics and visualization</b>
+<ul>
+ 	<li>Macro trends using Google Trends/Insights</li>
+ 	<li>Applications- preparing marketing calendar</li>
+ 	<li>Channel distribution</li>
+ 	<li>Booking engine data</li>
+ 	<li>Inter-channel lead time mean differences Channel/market-specific campaigns</li>
+ 	<li>Booking engine data</li>
+ 	<li>Inter-channel lead time mean differences</li>
+ 	<li>Channel/market-specific campaigns</li>
+</ul>
+Activity 7: With booking engine data provided in the spreadsheet, compute the lead times based on channels to create a digital marketing campaign calendar.
+
+<b>15:00 − 15:15  /   </b><b>Coffee break with biscuits and snacks</b>
+
+<b>15:15 − 16:15  /  Service and cost control charts</b>
+<ul>
+ 	<li>KPIs in service and costs operations</li>
+ 	<li>Process variations and control charts</li>
+ 	<li>Quality control data visualization and dashboards</li>
+</ul>
+Activity 7: With booking engine data provided in the spreadsheet,  compute the lead times based on channels to create a digital marketing campaign calendar
+
+Activity 8: Using a spreadsheet, participants will develop a template for gauging process variation and maintaining quality control using control charts.
+
+<strong>Case Study 5  Food and Beverage Cost Control Process of Hotel Enterprises</strong>
+Abstract:  Income provided from food and beverage (F&amp;B) sales is an important source of revenue for the hospitality industry. Therefore, hotel enterprises which are one of the most important elements of accommodation industry should perform an F&amp;B cost control in order to minimize costs and increase customer satisfaction. For an effective cost control process; F&amp;B cost control processes and cost control points need to be monitored carefully. The purpose of this study is to investigate F&amp;B cost control processes of hotel enterprises in Orlando, FL and perform an importance-performance analysis for the issues appear to be critical in F&amp;B cost control processes. Regarding the literature review, it is expected that there is a significant difference between the size of the hotels and their F&amp;B cost control processes. To this end, in order to collect data, the research establishes a questionnaire survey to be performed by F&amp;B managers of Orlando hotels to find out the existence of those possible differences. Also, the research investigates the usage rate of Activity-Based Costing (ABC) in hotel enterprises as an overhead allocation method. The research will deploy quantitative data analysis for the evaluation of survey results.
+
+Source:  Cengiz, E., &amp; Cengiz, F. (2015, May). Food and Beverage Cost Control Process of Hotel Enterprises: The Case of Orlando, Florida. 4. In International Interdisciplinary Business-Economics Advancement Conference (pp. 103-114).
+
+
+We create the tab Methodology with the ocntent Strategically the objective of the seminar is to provide actionable insights for data-driven decision-making with analytic tools within the framework of conventions and practices of the F&amp;B industry.  The participants will be guided in a very concise and condensed way, both on the strategic and conceptual elements as well as the practical applications of data analytics. They will gain pertinent knowledge in data scoping, visualization and analysing capabilities and approaches as well as appreciate the role of Big Data in determining strategy.
+
+There will be demonstrations of:
+<ul>
+ 	<li>Methodologies and tools for analytics</li>
+ 	<li>Strategies and actions plans specific to F&amp;B industry</li>
+ 	<li>Exposure to F&amp;B menu engineering framework Pricing strategies and modeling</li>
+</ul>
+In addition, this seminar will be interactive and hands-on in order to explore further potential within the participants’ own context and realities.
+
+<strong>Action learning real-life examples will be used</strong>
+
+A number of action learning examples and case studies will be utilized to demonstrate how F&amp;B businesses leverage data analytics for maximizing their profitability and competitiveness. This seminar is designed for a pragmatic approach.
+
+We create the tab Activities with the content Following the workshop, there will be an on-site visit to each of the attending businesses. This amounts to high-level consulting advice that is tailored to the specific needs of the café/outlet/restaurant or allied business verticals and may be discussed in full confidentiality rather than in the open forum of the workshop
+<ul>
+ 	<li>Perform an in-depth analysis of specific issues pertaining to the business</li>
+ 	<li>Audit existing processes in operations and strategy from a revenue standpoint with recommendations for achieving optimization</li>
+ 	<li>Audit existing processes in operations and strategy from a cost standpoint with recommendations for achieving optimization</li>
+ 	<li>Audit digital assets including POS and accounting/bookkeeping software with recommendations for upgrading to innovative cloud-based solutions to enhance productivity and efficiency</li>
+ 	<li>Audit data assets to ascertain quality issues and recommend strategy to capture and store data in an easy to use format</li>
+ 	<li>Recommend a repository of relevant publicly available data sets and cloud-based analytics tools</li>
+ 	<li>Define procedures for mapping in-house proprietary data with public data sets to get a 360 view of the F&amp;B business landscape</li>
+ 	<li>Propound KPIs and metrics for gauging success in business excellence and profitability</li>
+ 	<li>Develop a baseline for analytics procedures and tools in line with the KPIs and metrics</li>
+ 	<li>Prepare a roadmap for leveraging the digital assets for performing analytics procedures  and create business value</li>
+ 	<li>Audit in-house capacity to execute roadmaps and strategies per above points</li>
+ 	<li>Based on in-house capacity audit, recommend on-job training and capacity building mechanisms and platforms to enable managers and their reports to perform relevant and focused business intelligence tasks and analyses</li>
+ 	<li>Suggest customizing and tailoring tools and templates to the specific requirements of the F&amp;B outlet</li>
+ 	<li>Discuss implementation issues focusing on deriving BI value by integrating analytics-based solutions into menu engineering on a proof of concept basis</li>
+</ul>
+The four hours of on-site consulting will be delivered by Dr. Sanjay Nadkarni, who will subsequently write a brief report summarizing the main discussion points and including recommendations and suggestions for further consideration by the management. The recommendations will be in line with the strategy of leveraging cost-effective and user-friendly digital tools and platforms for performing BI analytics with minimal investment in time and resources on part of the F&amp;B outlet owners and employees.
+
+
+
+The thing is that for other events the tab names and content may differ
+
+
+
+
