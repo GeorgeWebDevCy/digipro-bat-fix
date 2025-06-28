@@ -16,7 +16,7 @@ This repository contains a small WordPress utility plugin that migrates tabbed c
 
 ## Running the extractor
 
-After activation a new page will appear under **Tools → ACF Tab Extractor**. Visit this page and click **"Extract & Clean Tabs Now"**. The script loops through all posts of the `mec-events` type, looking for headings wrapped in `<a>` tags followed by content. Each heading and its content become a row in the ACF repeater field named `tabs`:
+After activation a new page will appear under **Tools → ACF Tab Extractor**. Visit this page and click **"Extract & Clean Tabs Now"**. The script loops through all posts of the `mec-events` type, looking for heading lines. It records text from `<a>` tags and then matches those names to plain text headings later in the content. Each heading and its content become a row in the ACF repeater field named `tabs`:
 
 ```php
 update_field('tabs', $tabs, $post->ID);
@@ -47,7 +47,7 @@ If your site uses a different post type or field names, update the values in `ta
 
 ## Sample content
 
-The file `Instructions for a specific exaample` illustrates a block of HTML where each tab heading is defined using an `<a>` tag such as `<a>Program</a>` or `<a>Audience</a>` followed by the relevant text. This content is representative of what the extractor parses into ACF repeater rows.
+The file `Instructions for a specific exaample` illustrates HTML where a short list of `<a>` elements names each tab (e.g. `<a>Program</a>` or `<a>Audience</a>`). The same names appear again as plain text headings before their content. This format is representative of what the extractor parses into ACF repeater rows.
 
 ## License
 
