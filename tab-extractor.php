@@ -7,6 +7,10 @@ Author: Your Name
 */
 
 function acf_is_heading_line($line) {
+    global $acf_heading_known;
+    if (!isset($acf_heading_known)) {
+        $acf_heading_known = [];
+    }
     $trimmed = trim($line);
     if ($trimmed === '') {
         return false;
@@ -18,11 +22,20 @@ function acf_is_heading_line($line) {
     }
 
     // <a> tags or <h1>-<h6> tags count as headings
-    if (preg_match('/^<a\b[^>]*>.*<\/a>\s*$/i', $trimmed)) {
+    if (preg_match('/^<a\b[^>]*>(.*?)<\/a>\s*$/i', $trimmed, $m)) {
+        $acf_heading_known[] = trim(strip_tags($m[1]));
         return true;
     }
     if (preg_match('/^<h[1-6][^>]*>.*<\/h[1-6]>\s*$/i', $trimmed)) {
         return true;
+    }
+
+    // bare text or wrapped in <strong>/<b> that matches previously seen heading names
+    $plain = trim(strip_tags($trimmed));
+    if ($plain !== '') {
+        if (in_array($plain, $acf_heading_known, true)) {
+            return true;
+        }
     }
 
     return false;
@@ -64,6 +77,9 @@ function acf_tab_extractor_page() {
             try {
                 $migrated++;
                 $content = $post->post_content;
+                // reset known heading names for this post
+                global $acf_heading_known;
+                $acf_heading_known = [];
                 $lines = preg_split('/\r\n|\r|\n/', $content);
 
                 $tabs = [];
